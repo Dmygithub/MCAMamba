@@ -5,7 +5,7 @@
 ---
 
 ## 📌 **Introduction**
-后续公开代码
+We will make the code public after the paper is accepted
 
 MCAMamba is a multi-scale feature fusion model designed specifically for multi-source remote sensing image classification. By utilizing state space modeling techniques, MCAMamba effectively captures spatial and spectral dependencies, ensuring high accuracy and computational efficiency.
 
